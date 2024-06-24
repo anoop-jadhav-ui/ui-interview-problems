@@ -10,7 +10,7 @@
 
 ## HTML & CSS
 
-- [Layout Problem](skills/HTML/question-1.md) 🟢
+- [Layout Problem](skills/HTML&CSS/question-1.md) 🟢
 
 ## JavaScript
 
