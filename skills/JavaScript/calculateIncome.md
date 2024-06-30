@@ -1,4 +1,6 @@
-# Question 8
+[Home](../../README.md)
+
+# Calculate Income
 
 Implement the following - 
 

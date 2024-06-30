@@ -1,4 +1,6 @@
-# Question 7
+[Home](../../README.md)
+
+# Polyfill Bind & Apply
 
 Write a polyfill for bind or apply method
 
