@@ -20,6 +20,7 @@
 
 ## React
 
+- [React Rerender](skills/React/rerender.md)  🟢
 - [Login Form](skills/React/loginForm.md)  🟡
 - [Alert Banner](skills/React/alertBanner.md)  🟡
 - [Search](skills/React/search.md)  🟡
