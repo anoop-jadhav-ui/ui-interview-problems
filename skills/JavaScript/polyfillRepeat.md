@@ -5,7 +5,7 @@
 Implement the following - 
 
 ```js
-"Pokemon".repeat(3,";"); //output - pokemon;pokemon;pokemon
+"pokemon".repeat(3,";"); //output - pokemon;pokemon;pokemon
 ```
 
 
