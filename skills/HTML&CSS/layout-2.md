@@ -1,7 +1,7 @@
 [Home](../../README.md)
 
-# Responsive layout
+# Image gallery
 
 Create the following layout using HTML & CSS - 
 
-![alt text](../../public/images/layoutProblem.png)
+![alt text](../../public/images/layoutProblem-2.png)
