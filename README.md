@@ -20,6 +20,10 @@
 - [Problem Solving - calculate income](skills/JavaScript/calculateIncome.md) 🔴
 
 
+## Typescript
+
+- [Generics](skills/Typescript/generics.md)  🟡
+
 ## React
 
 - [React Rerender](skills/React/rerender.md)  🟢
