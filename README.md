@@ -22,7 +22,7 @@
 
 ## Typescript
 
-- [Generics](skills/Typescript/generics.md)  🟡
+- [Problem 1](skills/Typescript/problem1.md)  🟡
 
 ## React
 

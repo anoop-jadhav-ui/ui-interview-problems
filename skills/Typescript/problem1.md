@@ -1,6 +1,6 @@
 [Home](../../README.md)
 
-# Generics
+# Problem 1
 
 Add appropriate types
 
