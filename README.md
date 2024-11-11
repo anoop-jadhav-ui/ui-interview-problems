@@ -31,6 +31,7 @@
 - [Alert Banner](skills/React/alertBanner.md)  🟡
 - [Search](skills/React/search.md)  🟡
 - [Traffic Lights](skills/React/trafficLights.md)  🔴
+- [Pairing Matrix](skills/React/pairingMatrix.md)  🔴
 
 
 <!-- 
