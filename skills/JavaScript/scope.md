@@ -51,3 +51,18 @@
     pokemon.getType()
 ```
 
+### Problem 4
+
+```js
+    function getPokemonType() {
+        console.log(this.type)
+    }
+
+    let pokemon = {
+        name: "Venusaur",
+        type: "🌱",
+        getType: getPokemonType
+    }
+
+    pokemon.getType()
+```
