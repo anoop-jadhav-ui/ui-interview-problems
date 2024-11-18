@@ -1,7 +1,7 @@
 [Home](../../README.md)
 
-# Dashboard layout
+# Tooltip
 
 Create the following layout using HTML & CSS - 
 
-![layout problem image](../../public/images/layoutProblem-3.png)
+![tooltip image](../../public/images/tooltip.png)

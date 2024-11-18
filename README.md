@@ -5,10 +5,9 @@
 
 - [Responsive layout](skills/HTML&CSS/layout-1.md) 🟢
 - [Image Gallery](skills/HTML&CSS/layout-2.md) 🔴
-- [Dashboard](skills/HTML&CSS/layout-3.md) 🟡
+- [Tooltip](skills/HTML&CSS/layout-3.md) 🟡
 - [Card](skills/HTML&CSS/layout-4.md) 🟡
-- [Dialog](skills/HTML&CSS/layout-5.md) 🟡
-- [Tooltip](skills/HTML&CSS/layout-6.md) 🟡
+- [Dialog](skills/HTML&CSS/layout-5.md) 🔴
 
 ## JavaScript
 
