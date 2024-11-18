@@ -3,10 +3,12 @@
 
 ## HTML & CSS
 
-- [Layout Problem - Responsive](skills/HTML&CSS/layout-1.md) 🟢
-- [Layout Problem - Image Gallery](skills/HTML&CSS/layout-2.md) 🔴
-- [Layout Problem - Dashboard](skills/HTML&CSS/layout-3.md) 🟡
-- [Layout Problem - Card](skills/HTML&CSS/layout-4.md) 🟡
+- [Responsive](skills/HTML&CSS/layout-1.md) 🟢
+- [Image Gallery](skills/HTML&CSS/layout-2.md) 🔴
+- [Dashboard](skills/HTML&CSS/layout-3.md) 🟡
+- [Card](skills/HTML&CSS/layout-4.md) 🟡
+- [Dialog](skills/HTML&CSS/layout-5.md) 🟡
+- [Tooltip](skills/HTML&CSS/layout-6.md) 🟡
 
 ## JavaScript
 
