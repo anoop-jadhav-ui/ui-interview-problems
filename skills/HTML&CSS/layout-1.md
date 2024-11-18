@@ -4,4 +4,4 @@
 
 Create the following layout using HTML & CSS - 
 
-![alt text](../../public/images/layoutProblem.png)
+![responsive layout image](../../public/images/responsiveLayout.png)

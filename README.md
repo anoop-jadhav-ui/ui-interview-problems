@@ -3,7 +3,7 @@
 
 ## HTML & CSS
 
-- [Responsive](skills/HTML&CSS/layout-1.md) 🟢
+- [Responsive layout](skills/HTML&CSS/layout-1.md) 🟢
 - [Image Gallery](skills/HTML&CSS/layout-2.md) 🔴
 - [Dashboard](skills/HTML&CSS/layout-3.md) 🟡
 - [Card](skills/HTML&CSS/layout-4.md) 🟡

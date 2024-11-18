@@ -4,4 +4,4 @@
 
 Create the following layout using HTML & CSS - 
 
-![alt text](../../public/images/layoutProblem-3.png)
+![layout problem image](../../public/images/layoutProblem-3.png)
