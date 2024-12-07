@@ -18,7 +18,8 @@
 - [Closure](skills/JavaScript/closure.md) 🟡
 - [Problem Solving - polyfill flatMap](skills/JavaScript/polyfillFlatMap.md) 🟡
 - [Problem Solving - polyfill repeat](skills/JavaScript/polyfillRepeat.md) 🟡
-- [Problem Solving - Scholarship](skills/JavaScript/scholarship.md) 🟡
+- [Problem Solving - scholarship](skills/JavaScript/scholarship.md) 🟡
+- [Problem Solving - search subject](skills/JavaScript/searchLanguage.md) 🟡
 - [Problem Solving - polyfill bind](skills/JavaScript/polyfillBind.md) 🔴
 - [Problem Solving - calculate income](skills/JavaScript/calculateIncome.md) 🔴
 
