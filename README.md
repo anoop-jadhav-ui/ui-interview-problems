@@ -27,6 +27,7 @@
 ## Typescript
 
 - [Problem 1](skills/Typescript/problem1.md)  🟡
+- [Implement Stack](skills/Typescript/stack.md)  🔴
 
 ## React
 
