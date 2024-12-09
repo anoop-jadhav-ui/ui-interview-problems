@@ -4,6 +4,9 @@
 
 ### Problem 1
 
+
+Is this a closure ?
+
 ```js
     let x = 100;
 
