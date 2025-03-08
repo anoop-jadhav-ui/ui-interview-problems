@@ -26,9 +26,13 @@
 ## React
 
 - [React Rerender](skills/React/rerender.md)
-- [Login Form](skills/React/loginForm.md)
-- [Alert Banner](skills/React/alertBanner.md)
-- [Search](skills/React/search.md)
-- [Traffic Lights](skills/React/trafficLights.md)
-- [Pairing Matrix](skills/React/pairingMatrix.md)
-- [React Carousel](skills/React/carousel.md)
+
+## Components
+
+- [Login Form](skills/Components/loginForm.md)
+- [Alert Banner](skills/Components/alertBanner.md)
+- [Search](skills/Components/search.md)
+- [Traffic Lights](skills/Components/trafficLights.md)
+- [Pairing Matrix](skills/Components/pairingMatrix.md)
+- [Carousel](skills/Components/carousel.md)
+- [Directory Structure](skills/Components/directoryStructure.md)
