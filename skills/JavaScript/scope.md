@@ -5,64 +5,62 @@
 ### Problem 1
 
 ```js
-    const fruitName = "🥭"
+const fruitName = "🥭";
 
-    function getName() {
-        console.log(fruitName);
-    }
+function getName() {
+  console.log(fruitName);
+}
 
-    function fruit() {
-        const fruitName = "apple";
-        getName();
-    }
+function fruit() {
+  const fruitName = "apple";
+  getName();
+}
 
-    fruit()
+fruit();
 ```
 
 ### Problem 2
 
 ```js
-    let pokemon = {
-        name: "blastoise",
-        type: "💧",
-        getType() {
-            setTimeout(() => {
-                console.log(this.type);
-            }, 0)
-        }
-    }
+let pokemon = {
+  name: "blastoise",
+  type: "💧",
+  getType() {
+    setTimeout(() => {
+      console.log(this.type);
+    }, 0);
+  },
+};
 
-    pokemon.getType()
+pokemon.getType();
 ```
-
 
 ### Problem 3
 
 ```js
-    let pokemon = {
-        name: "Charizard",
-        type: "🔥",
-        getType: () => {
-            console.log(this.type);
-        }
-    }
+let pokemon = {
+  name: "Charizard",
+  type: "🔥",
+  getType: () => {
+    console.log(this.type);
+  },
+};
 
-
-    pokemon.getType()
+pokemon.getType();
 ```
 
 ### Problem 4
 
 ```js
-    function getPokemonType() {
-        console.log(this.type)
-    }
+function getPokemonType() {
+  console.log(this.type);
+}
 
-    let pokemon = {
-        name: "Venusaur",
-        type: "🌱",
-        getType: getPokemonType
-    }
+let pokemon = {
+  name: "Venusaur",
+  type: "🌱",
+  getType: getPokemonType,
+};
 
-    pokemon.getType()
+pokemon.getType();
 ```
